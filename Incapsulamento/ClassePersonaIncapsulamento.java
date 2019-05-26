@@ -1,4 +1,4 @@
-package com.fabiomelasi.primoprogetto.OOP.Introduzione.Incapsulamento;
+package com.fabiomelasi.primoprogetto.OOP.Incapsulamento;
 
 public class ClassePersonaIncapsulamento {
     private String nome;
